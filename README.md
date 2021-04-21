@@ -11,8 +11,8 @@ Yes, we have Linked-in page [Linked-in](https://www.linkedin.com/company/revolgy
  
  :bookmark_tabs: However the most interesting thing for you should be our blog where your ladies and gentleman write very insightfull [blog-posts](https://revolgy.com/blog/). 
 
-
-
+## :astonished: Our stack
+Do you want to know more about our stack? We are fully cloud native and work primarly with Terraform and CloudFromation. Visit our [Stackshare](https://stackshare.io/revolgy/revolgy-com).
 
 ## :eyeglasses: Who we are looking for 
 At Revolgy there's always space for people who aren't scared to take charge. We're looking for people who are self-confident enough to make an important decision, but humble enough to never stop learning and developing their skills. People, who put our customers and their success first, and always look for ways to help them even better. If you are enthusiastic cloud enginner, you are the one who we are looking for. Here is the list of open positions: 
