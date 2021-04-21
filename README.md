@@ -9,7 +9,7 @@ We are bunch of enthisastic people consisting mainly cloud enginners, architects
 Yes, we have Linked-in page [Linked-in](https://www.linkedin.com/company/revolgy/) and also [Facebook](https://www.facebook.com/revolgy/)
  but thats mainly for marketing and bussiness purposes. We also run our [Twitter](https://twitter.com/Revolgy). 
  
- :bookmark_tabs: However the most interesting thing for you should be our blog where your ladies and gentleman write very insightfull [blog-posts](https://revolgy.com/blog/). 
+ :bookmark_tabs: However the most interesting thing for you should be our blog, where our engineers write very insightfull [blog-posts](https://revolgy.com/blog/). 
 
 ## :astonished: Our stack
 Do you want to know more about our stack? We are fully cloud native and work primarly with Terraform and CloudFromation. Visit our [Stackshare](https://stackshare.io/revolgy/revolgy-com).
