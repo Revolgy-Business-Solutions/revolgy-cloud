@@ -30,10 +30,15 @@ At Revolgy, there is always space for people who aren't afraid to take charge. W
 ### Perks of working in Revolgy
 
 :closed_book: Working here is more than just stereotypical everyday struggle. The work here is not people-boxed. 
-:green_book: We have remote first culture (almost everyone can and is working remotely from different countires)
-:notebook: Our work gives us purpose and impacts the society as a whole. (We cooperate with schools and universities)
-:orange_book: We build cloud infrastructure that help people in all aspects of life (gaming, fintech for example)
-:notebook_with_decorative_cover: We care deeply about the personal growth of people who work with us. (we are working with Gallup talent methodology)
+
+:green_book: We have remote first culture (almost everyone can and is working remotely from different countires).
+
+:notebook: Our work gives us purpose and impacts the society as a whole. (We cooperate with schools and universities).
+
+:orange_book: We build cloud infrastructure that help people in all aspects of life (gaming, fintech for example).
+
+:notebook_with_decorative_cover: We care deeply about the personal growth of people who work with us. (we are working with Gallup talent methodology).
+
 
 This is why we'll make sure to give you opportunities to learn new things, grow your career, but also rest when you need to.
 
