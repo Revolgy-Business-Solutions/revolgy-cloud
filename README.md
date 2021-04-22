@@ -3,15 +3,15 @@
 
 > From on-premises to running fully managed infrastructure in the Cloud, we know that each use case entails a lot of work and new technologies to process. Our goal is to guide you through the journey of cloud adoption and provide you with know-how as well as industry's best practices tested and developed in years of managing cloud projects. 
 
-We are bunch of enthisastic people consisting mainly of cloud enginners and architects. We focus on GCP and AWS cloud platforms. We are contant learners and knowing that cloud is a fast evolving field - we have the rules of learn, relearn and unlearn what we know. 
+We are bunch of enthisastic people consisting mainly of cloud enginners and architects. We focus on GCP and AWS cloud platforms. We are contant learners and knowing that cloud is a fast evolving field - we have the rules of learn, relearn and unlearn what we know. Our work is not only development, but also lots of consulting, workshops and trainings. 
 
 ## :bulb: Our content
 Yes, we have LinkedIn page [LinkedIn](https://www.linkedin.com/company/revolgy/) and also [Facebook](https://www.facebook.com/revolgy/)
  but that is mainly for marketing and bussiness purposes. We also run our [Twitter](https://twitter.com/Revolgy). 
  
- :bookmark_tabs: However, the most interesting thing for you should be our blog, where our engineers write very insightful [blog-posts](https://revolgy.com/blog/). 
+:bookmark_tabs: However, the most interesting thing for you should be our blog, where our engineers write very insightful [blog-posts](https://revolgy.com/blog/). 
  
-  :tv: Do you like more video content - feel free to check our [Youtube channel](https://www.youtube.com/c/Revolgy/featured). 
+:tv: Do you like more video content - feel free to check our [Youtube channel](https://www.youtube.com/c/Revolgy/featured). 
 
 ## :astonished: Our stack
 Do you want to know more about our stack? We are fully cloud native and work primarily with Terraform and CloudFromation. Visit our [Stackshare](https://stackshare.io/revolgy/revolgy-com).
@@ -22,7 +22,7 @@ At Revolgy, there is always space for people who aren't afraid to take charge. W
 * [DIGITAL MARKETING SPECIALIST](https://www.cocuma.co/job/digital-marketing-specialist/3449/)
 * [SENIOR CLOUD OPERATIONS ENGINEER](https://www.cocuma.co/job/senior-cloud-operations-engineer/2829/)
 * [GCP ACCOUNT EXECUTIVE CEE](https://www.cocuma.co/job/gcp-account-executive-cee/3044/)
-* [CLOUD ENGINEERS FOR GCP OR AWS](https://www.cocuma.co/job/cloud-engineers-and-architects-for-gcp-amp-aws/3139/)
+* [CLOUD ENGINEERS FOR GCP OR AWS](https://www.cocuma.co/job/cloud-engineers-and-architects-for-gcp-amp-aws/3139/) 
 
 
 ## :zap: Revolgy culture
@@ -37,7 +37,11 @@ At Revolgy, there is always space for people who aren't afraid to take charge. W
 
 :orange_book: We build cloud infrastructure that help people in all aspects of life (gaming, fintech for example).
 
-:notebook_with_decorative_cover: We care deeply about the personal growth of people who work with us. (we are working with Gallup talent methodology).
+:notebook_with_decorative_cover: We care deeply about the personal growth of people who work with us. (we are working with Gallup talent methodology). 
+
+:ledger: Stress-free culture is the core of our work. Its very important to keep peace of mind. 
+
+:blue_book: We are not afraid to fail. We learn from fails and evolve in our team. 
 
 
 This is why we'll make sure to give you opportunities to learn new things, grow your career, but also rest when you need to.
