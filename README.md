@@ -13,7 +13,7 @@ Yes, we have LinkedIn page [LinkedIn](https://www.linkedin.com/company/revolgy/)
  
 :tv: Do you like more video content - feel free to check our [Youtube channel](https://www.youtube.com/c/Revolgy/featured). 
 
-:earth_africa: We organize [Cloud Native Prague] (https://www.meetup.com/Cloud-Native-Prague/)
+:earth_africa: We organize [Cloud Native Prague](https://www.meetup.com/Cloud-Native-Prague/)
 
 ## :astonished: Our stack
 Do you want to know more about our stack? We are fully cloud native and work primarily with Terraform and CloudFormation. Visit our [Stackshare](https://stackshare.io/revolgy/revolgy-com).
