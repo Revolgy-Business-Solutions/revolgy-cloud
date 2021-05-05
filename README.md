@@ -3,18 +3,20 @@
 
 > From on-premises to running fully managed infrastructure in the Cloud, we know that each use case entails a lot of work and new technologies to process. Our goal is to guide you through the journey of cloud adoption and provide you with know-how as well as industry's best practices tested and developed in years of managing cloud projects. 
 
-We are bunch of enthisastic people consisting mainly of cloud enginners and architects. We focus on GCP and AWS cloud platforms. We are contant learners and knowing that cloud is a fast evolving field - we have the rules of learn, relearn and unlearn what we know. Our work is not only development, but also lots of consulting, workshops and trainings. 
+We are bunch of ehthusiastic people consisting mainly of cloud engineers and architects. We focus on GCP and AWS cloud platforms. We are constant learners and knowing that cloud is a fast evolving field - we have the rules of learn, relearn and unlearn what we know. Our work is not only development, but also lots of consulting, workshops and trainings. 
 
 ## :bulb: Our content
 Yes, we have LinkedIn page [LinkedIn](https://www.linkedin.com/company/revolgy/) and also [Facebook](https://www.facebook.com/revolgy/)
  but that is mainly for marketing and bussiness purposes. We also run our [Twitter](https://twitter.com/Revolgy). 
  
-:bookmark_tabs: However, the most interesting thing for you should be our blog, where our engineers write very insightful [blog-posts](https://revolgy.com/blog/). 
+:bookmark_tabs: However, the most interesting thing for you should be our blog, where our engineers write very insightful [blog-posts](https://revolgy.com/blog/). We are pulling out the topics like Terrafrom, AWS, GCP, Cyber security and sharing what we do in our daily work. 
  
 :tv: Do you like more video content - feel free to check our [Youtube channel](https://www.youtube.com/c/Revolgy/featured). 
 
+:earth_africa: We organize [Cloud Native Prague](https://www.meetup.com/Cloud-Native-Prague/) meetup.
+
 ## :astonished: Our stack
-Do you want to know more about our stack? We are fully cloud native and work primarily with Terraform and CloudFromation. Visit our [Stackshare](https://stackshare.io/revolgy/revolgy-com).
+Do you want to know more about our stack? We are fully cloud native and work primarily with Terraform and CloudFormation. Visit our [Stackshare](https://stackshare.io/revolgy/revolgy-com).
 
 ## :eyeglasses: Who we are looking for 
 At Revolgy, there is always space for people who aren't afraid to take charge. We're looking for people who are self-confident enough to make an important decision, but humble enough to never stop learning and developing their skills. People, who put our customers and their success first, and always look for ways to help them even better. If you are enthusiastic cloud enginner, you are the one who we are looking for. Here is the list of open positions: 
