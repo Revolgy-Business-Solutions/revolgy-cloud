@@ -33,7 +33,7 @@ At Revolgy, there is always space for people who aren't afraid to take charge. W
 
 :closed_book: Working here is more than just stereotypical everyday struggle. The work here is not people-boxed. 
 
-:green_book: We have remote first culture (almost everyone can and is working remotely from different countires).
+:green_book: We have remote first culture (almost everyone can and is working remotely from different countries).
 
 :notebook: Our work gives us purpose and impacts the society as a whole. (We cooperate with schools and universities).
 
