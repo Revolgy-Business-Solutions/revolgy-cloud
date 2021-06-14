@@ -20,7 +20,6 @@ Do you want to know more about our stack? We are fully cloud native and work pri
 
 ## :eyeglasses: Who we are looking for 
 At Revolgy, there is always space for people who aren't afraid to take charge. We're looking for people who are self-confident enough to make an important decision, but humble enough to never stop learning and developing their skills. People, who put our customers and their success first, and always look for ways to help them even better. If you are enthusiastic cloud enginner, you are the one who we are looking for. Here is the list of open positions: 
-* [CUSTOMER SUCCESS MANAGER](https://www.cocuma.co/job/customer-success-manager/3461/)
 * [DIGITAL MARKETING SPECIALIST](https://www.cocuma.co/job/digital-marketing-specialist/3449/)
 * [SENIOR CLOUD OPERATIONS ENGINEER](https://www.cocuma.co/job/senior-cloud-operations-engineer/2829/)
 * [GCP ACCOUNT EXECUTIVE CEE](https://www.cocuma.co/job/gcp-account-executive-cee/3044/)
